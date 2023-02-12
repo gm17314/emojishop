@@ -95,7 +95,7 @@ const Top = styled.span`
     color: black;
     @media (max-width: 700px) {
     font-size: 7rem;
-    right: 3rem;
+    
   }
 `
 
